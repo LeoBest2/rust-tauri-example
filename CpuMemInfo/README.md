@@ -29,7 +29,4 @@ pnpm tauri build
 ```
 
 ## 效果图
-
 ![](https://img-blog.csdnimg.cn/974a5ba66bb4430ea90a4e55dcfe106b.png#pic_center)
-
-![](https://img-blog.csdnimg.cn/e8570e1df61f49b09dba2f86e2d5c012.gif#pic_center)
